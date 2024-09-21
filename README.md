@@ -21,6 +21,12 @@ In the second part (`Underwater Image Quality Assessment Part 2.ipynb`), the MOS
 ### Part 3: Model Training, Hyperparameter Tuning, and Evaluation
 The final part (`Underwater Image Quality Assessment Part 3.ipynb`) involves training machine learning models to predict the MOS based on the underwater image data. Various CNN architectures are explored, followed by hyperparameter tuning to improve the model’s performance. The evaluation of results is done using key metrics such as Spearman Rank Correlation Coefficient (SRCC), Kendall Rank Correlation Coefficient (KRCC), Pearson Linear Correlation Coefficient (PLCC), and Root Mean Square Error (RMSE).
 
+
+![image](https://github.com/user-attachments/assets/7a2714c2-d8cc-4be0-a85d-ee79bb00467f)
+
+![image](https://github.com/user-attachments/assets/7f39261a-b9bb-460c-b0fa-7f9d6537888a)
+
+
 Through this comprehensive approach, the project aims to enhance underwater image quality assessment, enabling accurate predictions of image quality and offering insights into model performance.
 
 ---
