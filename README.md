@@ -1,7 +1,3 @@
-Here's an elaborated version of the paragraph for your GitHub README:
-
----
-
 # Underwater Image Quality Assessment
 
 This project focuses on evaluating the quality of underwater images using a Mean Opinion Score (MOS). The MOS value, which provides a quantitative measure of image quality, is embedded directly onto each image for easy reference. Two widely used image quality assessment techniques, BRISQUE (Blind/Referenceless Image Spatial Quality Evaluator) and NIQE (Natural Image Quality Evaluator), are employed to calculate the MOS.
