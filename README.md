@@ -10,6 +10,8 @@ The project is divided into several key stages:
 
 ### Part 1: Dataset Creation
 In the first part of the project (`Underwater Image Quality Assessment Part 1.ipynb`), the dataset is created by preprocessing a collection of underwater images. After preprocessing, the MOS values are calculated and the corresponding image paths are stored in a text file. These values, along with the image paths, are crucial for further model training and evaluation. The processed dataset is saved to the specified drive location for ease of access in subsequent steps.
+
+
 ![image](https://github.com/user-attachments/assets/8c4594cd-bc36-4ab0-a0ef-7ef18a17249a)
 
 
